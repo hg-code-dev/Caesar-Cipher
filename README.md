@@ -1,4 +1,4 @@
-A simple Python implementation of the Caesar cipher completed as part of the freeCodeCamp Python curriculum. The project demonstrates basic text encryption and decryption using alphabet shifting, with support for uppercase letters, ROT13, and input validation.
+A simple Python implementation of the Caesar Cipher completed as part of the freeCodeCamp Python curriculum. The project demonstrates basic text encryption and decryption using alphabet shifting, with support for uppercase letters, ROT13, and input validation.
  
 ## Features
 - Encrypt and decrypt text  
